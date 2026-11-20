@@ -1,6 +1,6 @@
 # usb-floppy
 
-Command-line tool for macOS to initialize, mount, and manage raw virtual floppy slots on USB sticks for stock 7-segment Gotek floppy emulators (such as those used with Yamaha PSR keyboards).
+Command-line tool for Linux and macOS to initialize, mount, and manage raw virtual floppy slots on USB sticks for stock 7-segment Gotek floppy emulators (such as those used with Yamaha PSR keyboards).
 
 ## Build
 ```bash
